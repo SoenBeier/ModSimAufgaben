@@ -1,3 +1,2 @@
 # ModSimAufgaben
-Erstes Semester Physik
-Aufgaben zum Kurs Modulation und Simulation
+Erstes Semester Physik - Aufgaben zum Kurs Modulation und Simulation2017
